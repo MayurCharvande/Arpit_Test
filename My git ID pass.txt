@@ -1,0 +1,23 @@
+GIT 
+MayurCharvande
+mayur.charawande943@gmail.com
+Charvande@123
+mytoken: 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
+
+Repo:
+Mayur
+Mayur@123
+
+
+_____________________________________________________________________
+$ git add .
+
+$ git status
+
+$ git commit -m "My first commit"
+
+$ git push origin master
+
+Username for 'https://github.com': mayur.charawande943@gmail.com
+
+$ git push origin master

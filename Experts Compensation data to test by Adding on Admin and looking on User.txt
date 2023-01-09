@@ -1,0 +1,41 @@
+Introduction
+
+LegalOps.com’s Compensation Benchmarking Tool ("CBT") provides a variety of resources to help legal operations professionals better understand compensation practices associated with most common legal operations levels (Analyst, Manager, Director, etc.) at fortune 1000 US companies.[1]  
+
+The first component of a much larger LegalOps.com Platform,[2] the CBT provides:
+
+1.     Benchmark Data for your
+
+·       Total Compensation data    (Green Bar Graph)
+
+·       Base Salary data.                  (Blue Bar Graph)
+
+·       Bonus data.                           (Purple Bar Graph)
+
+·       Equity data.                           (Orange Bar Graph)
+
+The benchmark data for each element of your compensation is based on the data you provided during registration for the key factors driving compensation, which are: your level, level of education, whether you are an attorney, whether you report to the General Counsel, and whether you lead the legal operations department for your legal function.  
+
+You will find your responses to these questions on this page by clicking on the "Bar Graph" icon in the bottom left corner of the page below the green "YourTotal Compensation Box."  You can modify your inputs by clicking on the “Edit My Data” link above this box or the “Edit My Data” link at the top of the page—both denoted with a pencil icon.  Please do not change this data unless it’s not correct.  You can benchmark your data within the CBT in two ways without changing you data.  
+
+First, you can click on the “Benchmarks by” menu in the middle of the page above the “Base Salary” component:
+
+[1] Currently, the CBT does not provide information specific to government roles, and it does not distinguish between public and private entities or for-profit or not for-profit entities.  All data is presented in US Dollars.  The data and related overviews of compensation practices in the CBT also do not YET include insights and benchmarks specific to countries outside the US.  Over time, we expect to be able to provide more geographic specific data and guidance as more and more users of the CBT from outside the US add their data to the CBT database.  With that said, the CBT data and insights are based on common business practices commonly used by major businesses worldwide, and they can be used a basic benchmarking tool from which LegalOps.com members (“Members”) will need to adjust what the CBT provides according to additional data and insights Members source from others, including people at similar companies (legal operations leaders, general counsel, HR professionals, etc.), recruiters, and industry resources where the Member works—or seeks employment. [2]
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Question: What standard Lorem Ipsum passage, used since the 1500s
+
+Answer: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+Question: What standard Lorem Ipsum passage, used since the 1500s
+
+Answer: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+Question: What standard Lorem Ipsum passage, used since the 1500s
+
+Answer: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+
+
